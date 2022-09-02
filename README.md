@@ -10,5 +10,8 @@
   
 <br/><br/><br/>  
 ## 알고리즘 공부
+
+#### Link: [라이블로그][googlelink]
+[googlelink]: https://m.blog.naver.com/PostList.naver?blogId=kks227 "Go blog"
 #### [라이블로그](https://m.blog.naver.com/PostList.naver?blogId=kks227, "Go blog") <br/>
 #### 알고리즘 문제 해결 전략
