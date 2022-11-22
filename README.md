@@ -2,7 +2,7 @@
 <br/> 
 
 ## BOJ
-#### :open_file_folder: [세그먼트 트리](#-BOJ) <br/> 
+#### :open_file_folder: [세그먼트 트리](#BOJ-세그먼트-트리) <br/> 
 #### :open_file_folder: 유니온 파인드<br/>
 #### :open_file_folder: 동적 계획법2  
 #### :open_file_folder: 에라토스테네스의 체
